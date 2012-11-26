@@ -1,0 +1,7 @@
+django==1.1.4
+django-pagination
+posix_ipc
+suds
+simplejson
+-e svn+https://svn.ccti.ull.es/ccti/gestion/externals/soaplib/0.7.2dev#egg=soaplib
+SOAPpy
